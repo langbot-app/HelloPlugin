@@ -1,3 +1,6 @@
+> 2025/10/10 - 本仓库已弃用，请按照[插件开发教程](https://docs.langbot.app/zh/plugin/dev/tutor.html)使用 CLI 工具初始化插件项目。  
+> 10th October 2025 - This repository has been deprecated, please use the CLI tool to initialize the plugin project according to the [plugin development tutorial](https://docs.langbot.app/zh/plugin/dev/tutor.html).
+
 # HelloPlugin
 
 <!--
